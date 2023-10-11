@@ -12,4 +12,3 @@ int main(){
 	printf("A frase %s tem %d\n", frase, i);
 	return 0;
 }
-	
